@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "countries",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "LanguageCode",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "CountryName",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

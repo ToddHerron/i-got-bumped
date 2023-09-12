@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "495114063652",
+    "project_id": "i-got-bumped",
+    "storage_bucket": "i-got-bumped.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495114063652:android:b2d4a1a083fbe4e5186db1",
+        "android_client_info": {
+          "package_name": "com.igotbumped"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495114063652-sg252lfcam5moo1lsqrrum9usl2ttpd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.igotbumped",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "495114063652-cdq58m19eqd6vhb6l8vfi9haros1eq1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAwAk887luDLqrKyVq52XYlFNhPFL9Seo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495114063652-cdq58m19eqd6vhb6l8vfi9haros1eq1u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495114063652-n25h5abt4ij5b5kqd28q9h85daq290cp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.igotbumped"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
